@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a211225f-529f-456c-91a3-154a26b7d1dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFtyVMuR58VvNoekxI0foCWo0x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DeepLearning_4\PycharmProjects\historyLSTM\venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DeepLearning_4\PycharmProjects\historyLSTM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.MarcovChainExecutor">
+    <configuration name="LSTM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="historyLSTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LSTM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LSTMExecute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="historyLSTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LSTMExecute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MarcovChainExecutor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="historyLSTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarcovChainExecutor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MarcoveChainTrain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="historyLSTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarcoveChainTrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="importantWord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="historyLSTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/importantWord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MarcovChainExecutor" />
+        <item itemvalue="Python.LSTM" />
+        <item itemvalue="Python.LSTMExecute" />
+        <item itemvalue="Python.MarcoveChainTrain" />
+        <item itemvalue="Python.importantWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a211225f-529f-456c-91a3-154a26b7d1dd" name="Default Changelist" comment="" />
+      <created>1586343423515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586343423515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591112265069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="469" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1591112265069" />
+    <state x="704" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589276265187" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589710121472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589710121472" />
+    <state x="493" y="180" key="FileChooserDialogImpl" timestamp="1590830816925">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590830816925" />
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587650244054" />
+    <state width="1501" height="251" key="GridCell.Tab.0.bottom" timestamp="1591704905812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="997" height="393" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591112200472" />
+    <state width="1501" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591704905812" />
+    <state width="1501" height="251" key="GridCell.Tab.0.center" timestamp="1591704905812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="997" height="393" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591112200472" />
+    <state width="1501" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591704905812" />
+    <state width="1501" height="251" key="GridCell.Tab.0.left" timestamp="1591704905812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="997" height="393" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591112200471" />
+    <state width="1501" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591704905812" />
+    <state width="1501" height="251" key="GridCell.Tab.0.right" timestamp="1591704905812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="997" height="393" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591112200472" />
+    <state width="1501" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591704905812" />
+    <state width="629" height="81" key="GridCell.Tab.1.bottom" timestamp="1590826943659">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="81" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590826943659" />
+    <state width="936" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650210647" />
+    <state width="629" height="81" key="GridCell.Tab.1.center" timestamp="1590826943659">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="81" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590826943659" />
+    <state width="936" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650210647" />
+    <state width="629" height="81" key="GridCell.Tab.1.left" timestamp="1590826943659">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="81" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590826943659" />
+    <state width="936" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650210647" />
+    <state width="629" height="81" key="GridCell.Tab.1.right" timestamp="1590826943659">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="81" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590826943659" />
+    <state width="936" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650210647" />
+    <state x="-185" y="220" key="SettingsEditor" timestamp="1586347959948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-185" y="220" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586347959948" />
+    <state x="657" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586343440944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586343440944" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1588809064148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588809064148" />
+  </component>
+</project>
